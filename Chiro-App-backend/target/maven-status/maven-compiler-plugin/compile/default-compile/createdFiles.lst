@@ -1,0 +1,12 @@
+entity\Booking.class
+entity\Client.class
+servlets\BookingServlet.class
+dao\BookingDAO.class
+gson\LocalDateTimeAdapter.class
+servlets\LogoutServlet.class
+servlets\ClientServlet.class
+dao\ClientDAO.class
+entity\Registration.class
+services\BookingService.class
+dao\RegistrationDAO.class
+servlets\RegistrationServlet.class
